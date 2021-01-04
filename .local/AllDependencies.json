@@ -2596,11 +2596,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Invoice-CheckRossumStatus",
-      "projectName": "Invoice-CheckRossumStatus",
-      "projectPath": "C:\\Users\\libor\\Dropbox\\RPA\\Demo procesy\\Invoice Processing Entire Process\\CheckStatus\\.local",
+      "projectUniqueName": "Invoice-CheckRossumStatus_Fiberpreg",
+      "projectName": "Invoice-CheckRossumStatus_Fiberpreg",
+      "projectPath": "C:\\Users\\libor\\Dropbox\\LK_docs\\Valuetools\\Zákazníci\\Fiberpreg\\InvoiceProcess\\Invoice-CheckRossumStatus\\.local",
       "packagesPath": "C:\\Users\\libor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\libor\\Dropbox\\RPA\\Demo procesy\\Invoice Processing Entire Process\\CheckStatus\\.local"
+      "outputPath": "C:\\Users\\libor\\Dropbox\\LK_docs\\Valuetools\\Zákazníci\\Fiberpreg\\InvoiceProcess\\Invoice-CheckRossumStatus\\.local"
     },
     "frameworks": {
       "net461": {

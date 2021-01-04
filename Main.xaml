@@ -539,7 +539,7 @@
                     <OutArgument x:TypeArguments="x:String">[out_AutoVerified]</OutArgument>
                   </ui:AssignOperation.To>
                   <ui:AssignOperation.Value>
-                    <InArgument x:TypeArguments="x:String">[FilesReviewed.ToString + " dokumentů"]</InArgument>
+                    <InArgument x:TypeArguments="x:String">[FilesReviewed.ToString + " Invoices"]</InArgument>
                   </ui:AssignOperation.Value>
                 </ui:AssignOperation>
                 <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_2">
@@ -547,7 +547,7 @@
                     <OutArgument x:TypeArguments="x:String">[out_ManualVerify]</OutArgument>
                   </ui:AssignOperation.To>
                   <ui:AssignOperation.Value>
-                    <InArgument x:TypeArguments="x:String">[FilesToReview.ToString + " dokumentů"]</InArgument>
+                    <InArgument x:TypeArguments="x:String">[FilesToReview.ToString + " Invoices"]</InArgument>
                   </ui:AssignOperation.Value>
                 </ui:AssignOperation>
                 <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_3">
@@ -555,7 +555,7 @@
                     <OutArgument x:TypeArguments="x:String">[out_WaitingForRobot]</OutArgument>
                   </ui:AssignOperation.To>
                   <ui:AssignOperation.Value>
-                    <InArgument x:TypeArguments="x:String">[ImportedFiles.ToString + " dokumentů čeká na kontrolu robotem"]</InArgument>
+                    <InArgument x:TypeArguments="x:String">[ImportedFiles.ToString + " Invoices"]</InArgument>
                   </ui:AssignOperation.Value>
                 </ui:AssignOperation>
               </scg:List>

@@ -1,5 +1,5 @@
 {
-  "name": "Invoice-CheckRossumStatus",
+  "name": "Invoice-CheckRossumStatus_Fiberpreg",
   "description": "Verifies data from Rossum AI engine automatically",
   "main": "Main.xaml",
   "dependencies": {
@@ -13,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.8.0.0",
-  "projectVersion": "1.0.7",
+  "projectVersion": "1.0.9",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
